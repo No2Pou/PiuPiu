@@ -1,2 +1,0 @@
-1234
-Git is a versions control system.
